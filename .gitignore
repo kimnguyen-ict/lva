@@ -1,0 +1,10 @@
+/node_modules
+/public/builds
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+/.docker
+docker-compose.yml
